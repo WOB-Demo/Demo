@@ -4,7 +4,7 @@
 
 <div class="flex flex-col h-screen justify-center items-center mx-4 space-y-4">
     <div>
-        <P size="3xl" weight="semibold">Hallo Robert</P>
+        <P size="3xl" weight="semibold">Demo App</P>
     </div>
     <div class="w-full max-w-md border rounded-lg bg-gray-800 border-gray-700">
         <div class="mt-4 mb-6 mx-4">
